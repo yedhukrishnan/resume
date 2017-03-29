@@ -1,3 +1,3 @@
 # resume
 
-See this resume here: [Resume - Yedhu Krishnan](yedhukrishnan.github.io/resume)
+See this resume here: [Resume - Yedhu Krishnan](https://yedhukrishnan.github.io/resume)
